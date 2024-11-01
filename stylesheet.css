@@ -2,8 +2,8 @@
 	color: #02ccba;
              }
 .responsive-image {
-    max-width: 1024px;
-    max-height: 1024px;
+    max-width: 800px;
+    max-height: 800px;
     width: auto;
     height: auto;
 }
