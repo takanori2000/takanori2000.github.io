@@ -1,3 +1,9 @@
 .title {
 	color: #02ccba;
              }
+.responsive-image {
+    max-width: 1024px;
+    max-height: 1024px;
+    width: auto;
+    height: auto;
+}
